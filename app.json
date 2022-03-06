@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "aspireApp",
+    "slug": "aspireApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "aspireApp"
+}
