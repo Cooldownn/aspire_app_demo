@@ -1,0 +1,3 @@
+export const GET_CARD_LOADING = 'GET_CARD_LOADING';
+export const GET_CARD_SUCCESS = 'GET_CARD_SUCCESS';
+export const GET_CARD_FAIL = 'GET_CARD_FAIL';
